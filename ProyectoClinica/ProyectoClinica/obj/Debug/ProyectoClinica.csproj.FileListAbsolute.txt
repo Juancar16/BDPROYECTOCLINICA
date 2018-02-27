@@ -1,0 +1,9 @@
+C:\Users\JuanJo\Documents\GitHub\BDPROYECTOCLINICA\ProyectoClinica\ProyectoClinica\bin\Debug\ProyectoClinica.exe.config
+C:\Users\JuanJo\Documents\GitHub\BDPROYECTOCLINICA\ProyectoClinica\ProyectoClinica\bin\Debug\ProyectoClinica.exe
+C:\Users\JuanJo\Documents\GitHub\BDPROYECTOCLINICA\ProyectoClinica\ProyectoClinica\bin\Debug\ProyectoClinica.pdb
+C:\Users\JuanJo\Documents\GitHub\BDPROYECTOCLINICA\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.csprojResolveAssemblyReference.cache
+C:\Users\JuanJo\Documents\GitHub\BDPROYECTOCLINICA\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.Form1.resources
+C:\Users\JuanJo\Documents\GitHub\BDPROYECTOCLINICA\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.Properties.Resources.resources
+C:\Users\JuanJo\Documents\GitHub\BDPROYECTOCLINICA\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.csproj.GenerateResource.Cache
+C:\Users\JuanJo\Documents\GitHub\BDPROYECTOCLINICA\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.exe
+C:\Users\JuanJo\Documents\GitHub\BDPROYECTOCLINICA\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.pdb
